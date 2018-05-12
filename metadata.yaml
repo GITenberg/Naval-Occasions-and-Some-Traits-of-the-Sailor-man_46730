@@ -1,4 +1,8 @@
 _repo: Naval-Occasions-and-Some-Traits-of-the-Sailor-man_46730
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46730-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Bartimeus
@@ -10,6 +14,8 @@ creator:
     gutenberg_agent_id: '31547'
     url: http://www.gutenberg.org/2009/agents/31547
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46730#Naval-Occasions-and-Some-Traits-of-the-Sailor-man
 gutenberg_issued: '2014-08-29'
 gutenberg_type: Text
 identifiers:
